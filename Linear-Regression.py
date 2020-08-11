@@ -56,7 +56,7 @@ plt.show()
 print("-" * 50)
 
 '''
-Example Explained
+*EXAMPLE EXPLAINED*
 
 Import the modules you need:
 
@@ -95,7 +95,7 @@ plt.show()
 '''
 
 '''
-R for Relationship
+R for RELATIONSHIP
 
 It is important to know how the relationship between the values of the x-axis and the values of the y-axis is, if there are no relationship the linear regression can not be used to predict anything.
 

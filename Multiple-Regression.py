@@ -132,7 +132,7 @@ print(regr.coef_)
 print("-" * 50)
 
 '''
-Result Explained
+*RESULT EXPLAINED*
 
 The result array represents the coefficient values of weight and volume.
 
@@ -168,7 +168,7 @@ predictedCO2 = regr.predict([[3300, 1300]])
 print(predictedCO2) 
 
 '''
- We have predicted that a car with 1.3 liter engine, and a weight of 3300 kg, will release approximately 115 grams of CO2 for every kilometer it drives.
+We have predicted that a car with 1.3 liter engine, and a weight of 3300 kg, will release approximately 115 grams of CO2 for every kilometer it drives.
 
 Which shows that the coefficient of 0.00755095 is correct:
 

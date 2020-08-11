@@ -84,7 +84,7 @@ print(scaledX)
 print("-" * 50)
 
 '''
-Predict CO2 Values
+PREDICT CO2 VALUES
 
 The task in the Multiple Regression chapter was to predict the CO2 emission from a car when you only knew its weight and volume.
 

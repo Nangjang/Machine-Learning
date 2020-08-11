@@ -60,7 +60,6 @@ print(x)
 
 print("-" * 50)
 
-
 '''
 If there are two numbers in the middle, divide the sum of those numbers by two.
 

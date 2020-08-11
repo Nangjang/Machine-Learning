@@ -40,7 +40,7 @@ plt.show()
 print("-" * 50)
 
 '''
-Histogram Explained
+*HISTOGRAM EXPLAINED*
 
 We use the array from the example above to draw a histogram with 5 bars.
 

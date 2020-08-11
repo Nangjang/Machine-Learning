@@ -99,7 +99,7 @@ print(x)
 print("-" * 50)
 
 '''
-Standard Deviation
+*STANDARD DEVIATION*
 
 As we have learned, the formula to find the standard deviation is the square root of the variance:
 

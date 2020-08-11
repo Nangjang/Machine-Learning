@@ -49,7 +49,7 @@ plt.show()
 print("-" * 50)
 
 '''
-Example Explained
+*EXAMPLE EXPLAINED*
 
 Import the modules you need:
 

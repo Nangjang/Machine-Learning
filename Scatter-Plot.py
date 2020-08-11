@@ -65,7 +65,7 @@ plt.scatter(x, y)
 plt.show()
 
 '''
-Scatter Plot Explained
+*SCATTER PLOT EXPLAINED*
 
 We can see that the dots are concentrated around the value 5 on the x-axis, and 10 on the y-axis.
 
