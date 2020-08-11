@@ -1,5 +1,5 @@
 '''
-What is Standard Deviation?
+What is *STANDARD DEVIATION*?
 
 Standard deviation is a number that describes how spread out the values are.
 
@@ -45,7 +45,7 @@ print(x)
 print("-" * 50)
 
 '''
-Variance
+*VARIANCE*
 
 Variance is another number that indicates how spread out the values are.
 
@@ -119,7 +119,7 @@ x = numpy.std(speed)
 print(x)
 
 '''
-Symbols
+*SYMBOLS*
 
 Standard Deviation is often represented by the symbol Sigma: σ
 
